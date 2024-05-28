@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+.qwerty {
+ float: left;
+ padding: 5px;
+} 
+.qwertyu {
+    display: inline;
+    background-color: blanchedalmond;
+}
+.qwertyui {
+width: 300px;
+}
+.qwertyuio {
+display: block;
+}
+.qaz {
+    background-color: rgb(255, 230, 230);
+}
+.wsx {
+border: double;
+background-color: beige;
+}
+.edc {
+background-color: floralwhite; 
+color: black;
+}
+.uiop {
+    background-color: blanchedalmond;
+    border: double;
+}
